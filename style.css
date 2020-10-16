@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Piazzolla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/cards.css");
+
+
+body {
+  font-family: 'Piazzolla', serif;
+  font-size: 18px;
+  margin: -5px;
+}
+h1 {
+  font-family: 'Dancing Script', cursive;
+  font-weight: bold;
+  font-size:50px;
+}
+
+h2, h3 {
+  font-family: 'Piazzolla', serif;
+  font-size: 25px;	
+}
+
+a {
+  text-decoration: none;
+}
+
